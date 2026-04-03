@@ -1,4 +1,4 @@
-
+bedwars adv Scripts: auto-win & inf-blocks is your go-to resource for bedwars domination. Featuring auto-win and inf-blocks, our scripts are engineered to maximize your efficiency and enjoyment. Say goodbye to tedious grinding and hello to effortless victories.
 
 
 ---
